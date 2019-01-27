@@ -1,0 +1,2 @@
+The idea of this program was to create a program that simulated the card game "Patience"
+Most of the javafx in this assignments was provided to us, though I did manage to add some buttons (that didn't end up working).

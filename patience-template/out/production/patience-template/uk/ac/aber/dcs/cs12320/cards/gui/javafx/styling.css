@@ -1,0 +1,20 @@
+.btnDraw {
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial Narrow";
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#00FF00, #006600);
+}
+
+.btnCombine {
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial Narrow";
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#0000FF, #000066);
+}
+
+.btnQuit {
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial Narrow";
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#FF0000, #440000);
+}
