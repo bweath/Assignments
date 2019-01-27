@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CAssignmentV2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/d/Java Projects/CAssignmentV2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/d/Java Projects/CAssignmentV2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CAssignmentV2">
+				<Option output="/cygdrive/d/Java Projects/CAssignmentV2/cmake-build-debug/CAssignmentV2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Java Projects/CAssignmentV2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 CAssignmentV2"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CAssignmentV2/fast">
+				<Option output="/cygdrive/d/Java Projects/CAssignmentV2/cmake-build-debug/CAssignmentV2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Java Projects/CAssignmentV2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 CAssignmentV2/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/d/Java Projects/CAssignmentV2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Java\ Projects/CAssignmentV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/common.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/display/display_functions.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/display/display_functions.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/main.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/modules/module_functions.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/modules/module_functions.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/read_functions.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/read_functions.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/rooms/rooms_functions.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/rooms/rooms_functions.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/schemes/scheme_functions.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/schemes/scheme_functions.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/times/times_functions.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/read/times/times_functions.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/timetable/advanced/advaned_functions.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/timetable/advanced/advaned_functions.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/timetable/clashes/clash_functions.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/timetable/clashes/clash_functions.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/timetable/simple/simple_functions.c">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/timetable/simple/simple_functions.h">
+			<Option target="CAssignmentV2"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Java Projects/CAssignmentV2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

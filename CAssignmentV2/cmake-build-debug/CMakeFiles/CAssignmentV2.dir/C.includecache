@@ -1,0 +1,166 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/display/display_functions.c
+display_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/display/display_functions.h
+stdio.h
+/cygdrive/d/Java Projects/CAssignmentV2/display/stdio.h
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/d/Java Projects/CAssignmentV2/display/display_functions.h
+../common.h
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/main.c
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+timetable/clashes/clash_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/clashes/clash_functions.h
+timetable/simple/simple_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/simple/simple_functions.h
+timetable/advanced/advaned_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/advanced/advaned_functions.h
+read/read_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/read_functions.h
+display/display_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/display/display_functions.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/modules/module_functions.c
+module_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/modules/module_functions.h
+stdio.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/modules/stdio.h
+string.h
+-
+stdlib.h
+-
+stdarg.h
+-
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/modules/module_functions.h
+../../common.h
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/read_functions.c
+read_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/read_functions.h
+stdio.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/stdio.h
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/read_functions.h
+../common.h
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+modules/module_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/modules/module_functions.h
+schemes/scheme_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/schemes/scheme_functions.h
+rooms/rooms_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/rooms/rooms_functions.h
+times/times_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/times/times_functions.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/rooms/rooms_functions.c
+rooms_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/rooms/rooms_functions.h
+stdio.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/rooms/stdio.h
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/rooms/rooms_functions.h
+../../common.h
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/schemes/scheme_functions.c
+scheme_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/schemes/scheme_functions.h
+stdio.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/schemes/stdio.h
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/schemes/scheme_functions.h
+../../common.h
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/times/times_functions.c
+times_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/times/times_functions.h
+times_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/times/times_functions.h
+stdio.h
+/cygdrive/d/Java Projects/CAssignmentV2/read/times/stdio.h
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/d/Java Projects/CAssignmentV2/read/times/times_functions.h
+../../common.h
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/advanced/advaned_functions.c
+advaned_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/advanced/advaned_functions.h
+stdio.h
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/advanced/stdio.h
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/advanced/advaned_functions.h
+../../common.h
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/clashes/clash_functions.c
+clash_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/clashes/clash_functions.h
+stdio.h
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/clashes/stdio.h
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/clashes/clash_functions.h
+../../common.h
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/simple/simple_functions.c
+simple_functions.h
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/simple/simple_functions.h
+stdio.h
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/simple/stdio.h
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/d/Java Projects/CAssignmentV2/timetable/simple/simple_functions.h
+../../common.h
+/cygdrive/d/Java Projects/CAssignmentV2/common.h
+

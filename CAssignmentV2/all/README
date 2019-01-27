@@ -1,0 +1,8 @@
+A relatively complete data set and one that should prove possible to timetable.
+There are a large number of degree schemes, all with students.
+The modules are split between the two semesters and they have quite a lot of teaching hours.
+Teaching can take place at lots of times over the week.
+
+There is a restricted number of lecture and practical rooms.
+But of course, you only need to use rooms data for the extended program.
+For the first section, where you can assume there is an unlimited supply of rooms, you will still use much of the week.
